@@ -1,0 +1,24 @@
+{
+  "name": "zetta-mock-heartbeat-sensor",
+  "version": "0.0.0",
+  "description": "Mock heartbeat sensor for the Zetta platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zettajs/zetta-mock-heartbeat-sensor.git"
+  },
+  "keywords": [
+    "zetta",
+    "heartbeat",
+    "sensor"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-mock-heartbeat-sensor/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-mock-heartbeat-sensor"
+}
