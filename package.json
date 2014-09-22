@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/zettajs/zetta-mock-heartbeat-sensor/issues"
   },
-  "homepage": "https://github.com/zettajs/zetta-mock-heartbeat-sensor"
+  "homepage": "https://github.com/zettajs/zetta-mock-heartbeat-sensor",
+  "dependencies": {
+    "zetta": "^0.10.0"
+  }
 }
