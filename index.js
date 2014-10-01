@@ -1,5 +1,5 @@
 var util = require('util');
-var Device = require('zetta').Device;
+var Device = require('zetta-device');
 
 var Heartbeat = module.exports = function() {
   this.pulse = null;
