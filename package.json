@@ -1,6 +1,6 @@
 {
   "name": "zetta-mock-heartbeat-sensor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Mock heartbeat sensor for the Zetta platform",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/zettajs/zetta-mock-heartbeat-sensor",
   "dependencies": {
-    "zetta-device": "^0.3.0"
+    "zetta-device": "^0.7.0"
   }
 }
